@@ -420,7 +420,13 @@
                   <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
                 </ul> -->
               </div>
-                    
+	<script>
+	if ('serviceWorker' in navigator) {
+		window.addEventListener('load', function() {
+			navigator.serviceWorker.register('/service-worker.js');
+		});
+	}
+	</script>	
 
         <script src="js/jquery.min.js"></script>
         <script src="js/materialize.min.js"></script>

@@ -1,11 +1,11 @@
 {
-	"name":			"dtm 1st pwa",
+	"name":			"DAL-Tech Mobile, 2020",
 	"short_name":		"afriCarib",
 	"start_url":	 	"index.html",
 	"display":		"standalone",
 	"background_color":	"#fff",
-	"theme_color":		"#f00",
-	"description":		"describe app",
+	"theme_color":		"#00ff00",
+	"description":		"DTM 2020",
 	"orientation":		"portrait-primary",
 
 	"icons": [

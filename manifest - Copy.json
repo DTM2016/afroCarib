@@ -1,0 +1,12 @@
+{
+	"name": "dtm 1st pwa",		// on splashscreen
+	"short_name": "afriCarib",	// below icon
+	"start_url": "index.html",	// pwa start page
+	"scope": ".",
+	"display": "standalone",	// hides the browser url box
+	"background_color": "#fff", 	// background whilst loading on SplashScreen
+	"theme_color": "#ccc",		// theme color,, top  bar
+	"description": "describe app",	// description is favorite or bookmark
+	"orientation": "portrait-primary"	// set Landscape or Portrait
+}
+

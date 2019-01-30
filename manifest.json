@@ -1,7 +1,7 @@
 {
 	"name":			"DAL-Tech Mobile, 2020",
 	"short_name":		"afriCarib",
-	"start_url":	 	"index.html",
+	"start_url":	 	"/afroCarib/index.html",
 	"display":		"standalone",
 	"background_color":	"#fff",
 	"theme_color":		"#fff",

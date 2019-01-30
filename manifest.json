@@ -4,7 +4,7 @@
 	"start_url":	 	"index.html",
 	"display":		"standalone",
 	"background_color":	"#fff",
-	"theme_color":		"#0f0",
+	"theme_color":		"#ffa500",
 	"description":		"describe app",
 	"orientation":		"portrait-primary",
 

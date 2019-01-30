@@ -4,7 +4,7 @@
 	"start_url":	 	"index.html",
 	"display":		"standalone",
 	"background_color":	"#fff",
-	"theme_color":		"#00ff00",
+	"theme_color":		"#fff",
 	"description":		"DTM 2020",
 	"orientation":		"portrait-primary",
 

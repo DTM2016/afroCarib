@@ -1,11 +1,18 @@
 {
-	"name":				"dtm 1st pwa",
+	"name":			"dtm 1st pwa",
 	"short_name":		"afriCarib",
-	"start_url":		"/index.html",
-	"scope":			".",
-	"display":			"standalone",
+	"start_url":	 	"/index.html",
+	"display":		"standalone",
 	"background_color":	"#fff",
 	"theme_color":		"#ccc",
 	"description":		"describe app",
-	"orientation":		"portrait-primary"
+	"orientation":		"portrait-primary",
+
+	"icons": [
+		{
+		"src": "/img/icons-144.png",
+		"type": "img/png",
+		"sizes": "144x144"
+		}	
+	]
 }
